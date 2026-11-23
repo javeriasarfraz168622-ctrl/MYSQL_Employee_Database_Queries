@@ -50,7 +50,8 @@ The purpose of this assignment is to practice SQL queries and understand differe
 ## Learning Outcome
 
 Through this assignment, I practiced writing SQL queries, manipulating strings, extracting dates, applying conditions, and sorting employee records.
-
+## Linkdin Post Link
+https://lnkd.in/p/dwy266kG
 ---
 **Project:** MySQL Practice Assignment  
 **Database Tables:** EMP, PUCIT
